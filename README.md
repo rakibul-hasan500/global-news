@@ -686,12 +686,6 @@ See the repository's license information for usage and distribution permissions.
 
 **Syed Rakibul Hasan**
 
-Full Stack Developer | MERN Stack
-
-- GitHub: [@rakibul-hasan500](https://github.com/rakibul-hasan500)
-- Portfolio: [rakibulhasan.app](https://rakibulhasan.app)
-- LinkedIn: [Syed Rakibul Hasan Shuvo](https://www.linkedin.com/in/syed-rakibul-hasan-shuvo-2075b7410/)
-
 ---
 
 **Built with passion for modern web development.**
