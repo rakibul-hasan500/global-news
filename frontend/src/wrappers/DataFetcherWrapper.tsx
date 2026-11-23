@@ -31,9 +31,7 @@ function DataFetcherWrapper({children}: any) {
 
 
     // Call Get Current User Data API
-    const {data: currentUserData, isLoading: currentUserDataLoading, isSuccess: currentUserDataSuccess, isError: currentUserDataError} = useGetCurrentUserQuery(undefined, {
-        skip: !accessToken,
-    })
+    const {data: currentUserData, isLoading: currentUserDataLoading, isSuccess: currentUserDataSuccess, isError: currentUserDataError} = useGetCurrentUserQuery(undefined)
 
     // Set Current user Data To Auth Slice
     useEffect(() => {
